@@ -32,4 +32,8 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+# Ignore IDE configuration files
+.idea/
+*.iml
+
 next-env.d.ts
